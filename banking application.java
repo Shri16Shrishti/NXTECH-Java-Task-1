@@ -3,7 +3,7 @@ public class BankingApplication
 {
     public static void main(String args[])
     {
-     BankAccount ba=new BankAccount("XYZ","BA0001");
+     BankAccount ba=new BankAccount("Shrishti Singh","1604");
      ba.showMenu();
     }
 }
